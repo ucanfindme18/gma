@@ -3,7 +3,7 @@
 
 [![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
 
-`https://raw.githubusercontent.com/ucanfindme18/YouTube_to_m3u/main/gma.m3u8`
+`https://raw.githubusercontent.com/ucanfindme18/gma/main/gma.m3u8`
 
 Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
 
@@ -14,7 +14,7 @@ Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
 
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/ucanfindme18/YouTube_to_m3u/main/gma.m3u8` to any player which supports M3U playlists
+Paste this URL: `https://raw.githubusercontent.com/ucanfindme18/gma/main/gma.m3u8` to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
